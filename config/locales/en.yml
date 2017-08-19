@@ -1,0 +1,33 @@
+en:
+  devagnos_error_pages:
+    layout_title: "Error, something went wrong."
+    error_401:
+      title: "Error 401"
+      subtitle: "You have to be logged in to access this page."
+      content: "Your request requires to be logged in as a user of the website."
+      link: "Go back to home page"
+    error_403:
+      title: "Error 403"
+      subtitle: "This page is private"
+      content: "The page you're looking for is reserved to certain members. If you ended up on this page via a search engine or your favorites, you may have to log out to access it."
+      link: "Return to home page "
+    error_404:
+      title: "Error 404"
+      subtitle: "Page not found"
+      content: "The page you're looking for doesn't exist or might have been removed. "
+      link: "Return to home page "
+    error_406:
+      title: "Error 406"
+      subtitle: "Unknown format"
+      content: "The format asked for isn't avaible."
+      link: "Return to home page "
+    error_423:
+      title: "Error 423"
+      subtitle: "Locked resource"
+      content: "The adminsitration of this version of the website is closed."
+      link: "Return to home page"
+    error_500:
+      title: "Error 500"
+      subtitle: "Server error"
+      content: "Something went wrong, the page you're looking for isn't available."
+      link: "Return to home page"

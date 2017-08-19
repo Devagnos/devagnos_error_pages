@@ -1,0 +1,33 @@
+nl:
+  devagnos_error_pages:
+    layout_title: "Fout, er is iets mis gegaan "
+    error_401:
+      title: "Fout 401"
+      subtitle: "U dient ingelogd te zijn voor toegang tot deze pagina. "
+      content: "U dient ingelogd te zijn als gebruiker van deze website. "
+      link: "Terug naar homepage."
+    error_403:
+      title: "Fout 403"
+      subtitle: "Toegang geweigerd."
+      content: "De pagina die u probeert te bereiken is bestemt voor bepaalde personen. Indien u op deze pagina bent terecht gekomen via uw favorieten of zoekmachine dient u zich mogelijk in te loggen. "
+      link: "Terug naar homepage."
+    error_404:
+      title: "Fout 404"
+      subtitle: "Pagina niet gevonden"
+      content: "De pagina die u heeft opgevraagd is ongeldig of bestaat niet meer. "
+      link: "Terug naar homepage."
+    error_406:
+      title: "Fout 406"
+      subtitle: "Onbekend formaat"
+      content: "Het gevraagde formaat word niet ondersteund door de server."
+      link: "Terug naar homepage."
+    error_423:
+      title: "Fout 423"
+      subtitle: "Afgesloten"
+      content: "De administratie van de site is gesloten."
+      link: "Terug naar homepage."
+    error_500:
+      title: "Fout 500"
+      subtitle: "Interne serverfout"
+      content: "Er heeft een fout opgetreden, het is onmogelijk de gevraagde pagina weer te geven."
+      link: "Terug naar homepage."

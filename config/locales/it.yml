@@ -1,0 +1,33 @@
+it:
+  devagnos_error_pages:
+    layout_title: "Errore"
+    error_401:
+      title: "Errore 401"
+      subtitle: "Devi essere registrato per accedere a questa pagina."
+      content: "L'operazione richiesta richiede di essere autenticati come un utente del sito. "
+      link: "Torna alla Home Page. "
+    error_403:
+      title: "Errore 403"
+      subtitle: "Questa pagina è riservata. "
+      content: "La pagina che si sta tentando di scaricare è riservata solo ad alcune persone. Se avete raggiunto questa pagina attraverso un motore di ricerca o preferiti, può essere che fosse necessario disconnettersi per l'accesso."
+      link: "Ritorna alla home page "
+    error_404:
+      title: "Errore 404"
+      subtitle: "Pagina non trovata "
+      content: "La pagina richiesta non esiste, è stata spostata o non è più disponibile."
+      link: "Ritorna alla home page  "
+    error_406:
+      title: "Errore 406"
+      subtitle: "Formato sconosciuto "
+      content: "Il formato richiesto non è disponibile. "
+      link: "Ritorna alla home page  "
+    error_423:
+      title: "Errore 423"
+      subtitle: "Risorsa bloccato"
+      content: "La versione del sito è chiuso."
+      link: "Ritorna alla home page "
+    error_500:
+      title: "Errore 500"
+      subtitle: "Errore del server "
+      content: "Si è verificato un errore, è impossibile accedere alla pagina richiesta. "
+      link: "Ritorna alla home page "

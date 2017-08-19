@@ -1,0 +1,33 @@
+fr:
+  devagnos_error_pages:
+    layout_title: "Erreur survenue"
+    error_401:
+      title: "Erreur 401"
+      subtitle: "Vous devez être authentifié pour accéder à cette page."
+      content: "L'opération que vous avez demandé requiert d'être authentifié en tant qu'utilisateur du site."
+      link: "Revenir à l'accueil du site."
+    error_403:
+      title: "Erreur 403"
+      subtitle: "Cette page est privée."
+      content: "La page que vous essayez de charger est réservée à certaines personnes. Si vous êtes arrivée sur cette page via un moteur de recherche ou vos favoris, il se peut que vous deviez vous déconnecter pour y accéder."
+      link: "Revenir à la page d’accueil"
+    error_404:
+      title: "Erreur 404"
+      subtitle: "Page introuvable"
+      content: "La page demandée n’existe pas, a été déplacée ou n’est plus disponible."
+      link: "Revenir à la page d’accueil"
+    error_406:
+      title: "Erreur 406"
+      subtitle: "Format inconnu"
+      content: "Le format demandé n'est pas disponible."
+      link: "Revenir à la page d’accueil"
+    error_423:
+      title: "Erreur 423"
+      subtitle: "Ressource verrouillée"
+      content: "L'administration de cette version du site est fermée."
+      link: "Revenir à la page d’accueil"
+    error_500:
+      title: "Erreur 500"
+      subtitle: "Erreur serveur"
+      content: "Une erreur s’est produite, rendant impossible l’accès à la page demandée."
+      link: "Revenir à la page d’accueil"

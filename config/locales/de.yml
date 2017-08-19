@@ -1,0 +1,33 @@
+de:
+  devagnos_error_pages:
+    layout_title: "Ein Fehler ist aufgetreten."
+    error_401:
+      title: "Fehler 401"
+      subtitle: "Für den Zugang auf diese Seite müssen Sie authentifiziert sein."
+      content: " Authentifizieren Sie sich bitte als Benutzer der Webseite."
+      link: "Zurück zur Startseite"
+    error_403:
+      title: "Fehler 403"
+      subtitle: "Diese Seite ist privat."
+      content: "Die aufgerufene Webseite ist bestimmten Personen vorbehalten. Loggen Sie sich bitte aus, falls Sie über die Suchmaschinen oder Ihre Favoriten dise Seite aufgerufen haben, um erneut Zugang zu haben."
+      link: "Zurück zur Startseite"
+    error_404:
+      title: "Fehler 404"
+      subtitle: "Seite nicht gefunden"
+      content: "Die gewühnschte Seite existiert nicht mehr, wurde geändert oder ist nicht mehr zugänglich."
+      link: "Zurück zur Startseite"
+    error_406:
+      title: "Fehler 406"
+      subtitle: "Unbekanntes Format"
+      content: "Das gewünschte Format ist nicht verfügbar."
+      link: "Zurück zur Startseite"
+    error_423:
+      title: "Fehler 423"
+      subtitle: "Gesperrte Ressource"
+      content: "Diese Version der Website ist nicht mehr zugänglich."
+      link: "Zurück zur Startseite"
+    error_500:
+      title: "Fehler 500"
+      subtitle: "Server-Fehler"
+      content: "Ein Fehler ist aufgetreten, die gewühnschte Seite ist nicht zugänglich."
+      link: "Zurück zur Startseite"

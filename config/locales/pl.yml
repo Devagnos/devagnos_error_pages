@@ -1,0 +1,33 @@
+pl:
+  devagnos_error_pages:
+    layout_title: "Wystąpił błąd "
+    error_401:
+      title: "Błąd 401"
+      subtitle: "Musisz być zalogowany aby uzyskać  dostęp do tej strony. "
+      content: "Twoje zapytanie wymaga zalogowania do strony jako użytkownik serwisu."
+      link: "Powrót do strony głównej "
+    error_403:
+      title: "Błąd 403"
+      subtitle: "Strona prywatna."
+      content: "Strona, której szukasz jest przeznaczona dla wybranych użytkowników. Jeśli wyświetlła się Tobie ta strona za pomocą wyszukiwarki lub ulubionych może się okazać, że musisz się wylogować aby uzyskać dostęp."
+      link: "Powrót do strony głównej"
+    error_404:
+      title: "Błąd 404"
+      subtitle: "Nie znaleziono strony "
+      content: "Żądana strona nie istnieje, została przeniesiona lub nie jest już dostępna."
+      link: "Powrót do strony głównej  "
+    error_406:
+      title: "Błąd 406"
+      subtitle: "Nieznany format "
+      content: "Żądany rozmiar nie jest dostępny. "
+      link: "Powrót do strony głównej  "
+    error_423:
+      title: "Błąd 423"
+      subtitle: "Zablokowany zasób "
+      content: "Administrowanie tej wersji strony jest zamknięte. "
+      link: "Powrót do strony głównej  "
+    error_500:
+      title: "Błąd 500"
+      subtitle: "Błąd serwera"
+      content: "Wystąpił błąd, strona której szukasz jest niedostępna. "
+      link: "Powrót do strony głównej  "
